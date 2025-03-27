@@ -38,9 +38,9 @@ Clear-Host
 
 Write-Host "";
 Write-Host "";
-Write-Host -ForegroundColor Blue "by Diablos473";
+Write-Host -ForegroundColor Blue "by lXxCocaColaxX";
 Write-Host "";
-Write-Host -ForegroundColor Red " Tranquilo joven usuario, estas en manos de los expertos. ";
+Write-Host -ForegroundColor Red " hola xd ";
 Write-Host "";
 Write-Host -ForegroundColor Magenta " ░██████╗░█████╗░██╗░░░░░░█████╗░  ██╗░░░░░███████╗░██████╗░███████╗███╗░░██╗██████╗░░██████╗ ";
 Write-Host -ForegroundColor Magenta " ██╔════╝██╔══██╗██║░░░░░██╔══██╗  ██║░░░░░██╔════╝██╔════╝░██╔════╝████╗░██║██╔══██╗██╔════╝ ";
@@ -49,15 +49,15 @@ Write-Host -ForegroundColor Magenta " ░╚═══██╗██║░░█
 Write-Host -ForegroundColor Magenta " ██████╔╝╚█████╔╝███████╗╚█████╔╝  ███████╗███████╗╚██████╔╝███████╗██║░╚███║██████╔╝██████╔╝ ";
 Write-Host -ForegroundColor Magenta " ╚═════╝░░╚════╝░╚══════╝░╚════╝░  ╚══════╝╚══════╝░╚═════╝░╚══════╝╚═╝░░╚══╝╚═════╝░╚═════╝░ ";
 Write-Host "";
-Write-Host -ForegroundColor Cyan "Juro lealtad inquebrantable a Illeuco, Rangous, IgnExpi, Diablos473, NerviousMaker, Execu2Chris, tyseh, Shadia  y Diwq.. Mi compromiso es un vínculo virtual, tejido con la firmeza de códigos entrelazados. En cada SS, mi lealtad persistirá, forjando una camaradería digital eterna en el vasto reino de la red. ";
+Write-Host -ForegroundColor Cyan "mi texto ";
 Write-Host "";
-Write-Host -ForegroundColor DarkGreen " discord.gg/sololegends ";
+Write-Host -ForegroundColor DarkGreen " mi discord ";
 Write-Host "";
 Write-Host "";
 
 function Test-Admin {;$currentUser = New-Object Security.Principal.WindowsPrincipal $([Security.Principal.WindowsIdentity]::GetCurrent());$currentUser.IsInRole([Security.Principal.WindowsBuiltinRole]::Administrator);}
 if (!(Test-Admin)) {
-    Write-Warning "Brother ejecutalo como ADMIN :V"
+    Write-Warning "ejecutalo como administrador"
     Start-Sleep 10
     Exit
 }
