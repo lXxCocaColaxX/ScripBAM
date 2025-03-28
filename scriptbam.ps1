@@ -46,7 +46,7 @@ Write-Host -ForegroundColor Blue     "██╔════╝██╔═══
 Write-Host -ForegroundColor Cyan     "███████╗██║     ██████╔╝█████╗  █████╗   ██╔██╗ ██║║███████╗███████║███████║██████╔╝█████╗  "
 Write-Host -ForegroundColor DarkCyan "╚════██║██║     ██╔══██╗██╔══╝  ██╔══╝   ██║╚██╗██║╚════██║██╔══██║██╔══██║██╔══██╗██╔══╝  "
 Write-Host -ForegroundColor Blue     "███████║╚██████╗██║  ██║███████╗███████╗ ██║ ╚████║███████║██║  ██║██║  ██║██║  ██║███████╗"
-Write-Host -ForegroundColor DarkBlue "╚══════╝ ╚═════╝╚═╝  ╚═╝╚══════╝╚══════╝ ╚═╝  ╚═══╝╚═════╝ ╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝"
+Write-Host -ForegroundColor DarkBlue "╚══════╝ ╚═════╝╚═╝  ╚═╝╚══════╝╚══════╝ ╚═╝  ╚═══╝╚═════╝ ╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝"
 Write-Host ""
 Write-Host -ForegroundColor Cyan " BAM "
 Write-Host ""
