@@ -37,9 +37,9 @@ Clear-Host
 
 Write-Host ""
 Write-Host ""
-Write-Host -ForegroundColor Blue "by lXxCocaColaxX"
+Write-Host -ForegroundColor Blue "Made by lXxCocaColaxX"
 Write-Host ""
-Write-Host -ForegroundColor Red " hola xd "
+Write-Host -ForegroundColor Red " SS Tools / Scripts Verified by lXxCocaColaxX "
 Write-Host ""
 Write-Host -ForegroundColor DarkBlue " ███████╗ ██████╗██████╗ ███████╗███████╗███╗   ██╗██████╗ ███████╗██╗  ██╗ █████╗ ██████╗ ███████╗"
 Write-Host -ForegroundColor Blue "██╔════╝██╔════╝██╔══██╗██╔════╝██╔════╝████╗  ██║██╔══██╗██╔════╝██║  ██║██╔══██╗██╔══██╗██╔════╝"
@@ -48,9 +48,9 @@ Write-Host -ForegroundColor DarkCyan "╚════██║██║     █�
 Write-Host -ForegroundColor Blue "███████║╚██████╗██║  ██║███████╗███████║██║ ╚████║██████╔╝███████║██║  ██║██║  ██║██║  ██║███████╗"
 Write-Host -ForegroundColor DarkBlue "╚══════╝ ╚═════╝╚═╝  ╚═╝╚══════╝╚══════╝╚═╝  ╚═══╝╚═════╝ ╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝"
 Write-Host ""
-Write-Host -ForegroundColor Cyan "mi texto "
+Write-Host -ForegroundColor Cyan " BAM "
 Write-Host ""
-Write-Host -ForegroundColor DarkGreen " mi discord "
+Write-Host -ForegroundColor Blue " https://e-z.bio/lXxCocaColaxX "
 Write-Host ""
 Write-Host ""
 
