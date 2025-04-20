@@ -37,7 +37,7 @@ Clear-Host
 
 Write-Host ""
 Write-Host ""
-Write-Host -ForegroundColor Blue "Made by lXxCocaColaxX"
+Write-Host -ForegroundColor Blue "Modifiedby lXxCocaColaxX"
 Write-Host ""
 Write-Host -ForegroundColor Red " SS Tools / Scripts Verified by lXxCocaColaxX "
 Write-Host ""
